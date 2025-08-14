@@ -1,0 +1,31 @@
+<app-visitor-header></app-visitor-header>
+
+
+<ion-content class="ion-padding">
+  <div class="form-container">
+    <form [formGroup]="loginForm" (ngSubmit)="login()">
+      <ion-input label="Email" label-placement="floating" fill="outline" placeholder="Enter Email"
+        color="warning" type="email" formControlName="email">
+        <ion-icon name="mail" slot="end"></ion-icon>
+      </ion-input>
+      <div *ngIf="loginForm.get('email')?.invalid && loginForm.get('email')?.touched">
+        <ion-text class="error" color="danger" stacked>Email is required and must be a valid email</ion-text>
+      </div>
+
+      <ion-input label="Password" label-placement="floating" fill="outline" placeholder="Enter Password"
+        color="warning" type="password" formControlName="password">
+        <ion-icon name="eye" slot="end"></ion-icon>
+      </ion-input>
+      <div *ngIf="loginForm.get('password')?.invalid && loginForm.get('password')?.touched">
+        <ion-text class="error" color="danger" stacked>Password is required</ion-text>
+      </div>
+
+      <ion-button shape="round" expand="block" class="login-button" type="submit" [disabled]="loginForm.invalid">Login</ion-button>
+    </form>
+      <div class="sign-up">
+        <ion-button class="remove-bg" fill="clear" (click)="openForgot()" routerDirection="forward">Forgot password?</ion-button>
+        <p>Don't have an account?</p>
+        <ion-button class="remove-bg inscrire-button" fill="clear" routerDirection="forward" (click)="openInscrirePage()">Sign up</ion-button>
+      </div>
+  </div>
+</ion-content>

@@ -1,0 +1,22 @@
+ion-tabs {
+    position: fixed;
+  ion-tab-button {
+    ion-icon {
+      color: #000; 
+    }
+
+    ion-label {
+      color: #000;
+    }
+
+    &:hover {
+      ion-icon {
+        color: orange;
+      }
+
+      ion-label {
+        color: orange;
+      }
+    }
+  }
+}
