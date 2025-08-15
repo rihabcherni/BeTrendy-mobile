@@ -51,12 +51,16 @@
         <b>Role Selection</b><br/>
         <small>Choose account type</small>
       </td>
-      <td align="center">
-        <img src="screenshots/login/register1.PNG" alt="Register Step 1" width="200"/>
-        <img src="screenshots/login/register2.PNG" alt="Register Step 2" width="200"/><br/>
-        <b>Registration</b><br/>
-        <small>Create a new account</small>
-      </td>
+    <td align="center">
+      <img src="screenshots/login/register1.PNG" alt="Register Step 1" width="200"/><br/>
+      <b>Registration</b><br/>
+      <small>Create a new account</small>
+    </td>
+    <td align="center">
+      <img src="screenshots/login/register2.PNG" alt="Register Step 2" width="200"/><br/>
+      <b>Registration</b><br/>
+      <small>Confirmation of account creation</small>
+    </td>
       <td align="center">
         <img src="screenshots/login/forgot.PNG" alt="Forgot Password" width="200"/><br/>
         <b>Forgot Password</b><br/>
