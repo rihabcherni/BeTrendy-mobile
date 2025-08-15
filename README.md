@@ -57,12 +57,12 @@
       <small>Create a new account</small>
     </td>
     <td align="center">
-      <img src="screenshots/login/register2.PNG" alt="Register Step 2" width="200"/><br/>
+      <img src="screenshots/login/register2.PNG" alt="Register Step 2" width="180"/><br/>
       <b>Registration</b><br/>
       <small>Confirmation of account creation</small>
     </td>
       <td align="center">
-        <img src="screenshots/login/forgot.PNG" alt="Forgot Password" width="200"/><br/>
+        <img src="screenshots/login/forgot.PNG" alt="Forgot Password" width="220"/><br/>
         <b>Forgot Password</b><br/>
         <small>Password recovery</small>
       </td>
@@ -72,59 +72,31 @@
 
 ### 👤 Client Interface
 
-#### 🏠 Home & Navigation
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./screenshots/home-screen.png" alt="Home Screen" width="200"/><br/>
-        <b>Home Screen</b><br/>
-        <small>Main dashboard</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/side-menu.png" alt="Side Menu" width="200"/><br/>
-        <b>Side Menu</b><br/>
-        <small>Navigation menu</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/bottom-tabs.png" alt="Bottom Tabs" width="200"/><br/>
-        <b>Bottom Navigation</b><br/>
-        <small>Quick access tabs</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
 #### 🛍️ Shopping Experience
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="./screenshots/product-catalog.png" alt="Product Catalog" width="200"/><br/>
+        <img src="./screenshots/client/1.PNG" alt="Product Catalog" width="200"/><br/>
         <b>Product Catalog</b><br/>
         <small>Browse all products</small>
       </td>
       <td align="center">
-        <img src="./screenshots/product-details.png" alt="Product Details" width="200"/><br/>
-        <b>Product Details</b><br/>
-        <small>Detailed product view</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/product-search.png" alt="Search Results" width="200"/><br/>
-        <b>Search Results</b><br/>
-        <small>Product search</small>
+        <img src="./screenshots/client/2.PNG" alt="Product Details" width="200"/>
+        <img src="./screenshots/client/3.PNG" alt="Product Details" width="200"/>
+        <img src="./screenshots/client/4.PNG" alt="Product Details" width="200"/>
+        <img src="./screenshots/client/5.PNG" alt="Product Details" width="200"/><br/>
+        <b>Product Details & Reviews</b><br/>
+        <small>Detailed product & Customer reviews</small>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="./screenshots/category-filter.png" alt="Category Filter" width="200"/><br/>
+        <img src="./screenshots/client/6-category.PNG" alt="Category Filter" width="200"/><br/>
+        <img src="./screenshots/client/7-subcategory.PNG" alt="Category Filter" width="200"/><br/>
+        <img src="./screenshots/client/8-sub.PNG" alt="Category Filter" width="200"/><br/>
         <b>Category Filter</b><br/>
         <small>Filter by categories</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/product-reviews.png" alt="Product Reviews" width="200"/><br/>
-        <b>Product Reviews</b><br/>
-        <small>Customer reviews</small>
       </td>
       <td align="center">
         <img src="./screenshots/wishlist.png" alt="Wishlist" width="200"/><br/>
