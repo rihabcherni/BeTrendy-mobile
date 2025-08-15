@@ -29,8 +29,6 @@
         <b>Newsletter Subscription</b><br/>
         <small>Subscribe to updates</small>
       </td>
-    </tr>
-    <tr>
      <td align="center">
         <img src="screenshots/login/role.PNG" alt="Role Selection" width="200"/><br/>
         <b>Role Selection</b><br/>
@@ -41,13 +39,13 @@
         <b>Registration</b><br/>
         <small>Create a new account</small>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="screenshots/login/otp.PNG" alt="OTP Verification" width="200"/><br/>
         <b>OTP Verification</b><br/>
         <small>Confirm phone number</small>
       </td>
-    </tr>
-    <tr>
     <td align="center">
           <img src="screenshots/login/forgot.PNG" alt="Forgot Password" width="220"/><br/>
           <b>Forgot Password</b><br/>
