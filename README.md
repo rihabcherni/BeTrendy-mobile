@@ -42,11 +42,6 @@
         <small>Create a new account</small>
       </td>
       <td align="center">
-        <img src="screenshots/login/register2.PNG" alt="Register Step 2" width="180"/><br/>
-        <b>Registration</b><br/>
-        <small>Confirmation of account creation</small>
-      </td>
-            <td align="center">
         <img src="screenshots/login/otp.PNG" alt="OTP Verification" width="200"/><br/>
         <b>OTP Verification</b><br/>
         <small>Confirm phone number</small>
@@ -85,11 +80,15 @@
       </td>
       <td align="center">
         <img src="./screenshots/client/2.PNG" alt="Product Details" width="200"/>
-        <img src="./screenshots/client/3.PNG" alt="Product Details" width="200"/>
-        <img src="./screenshots/client/4.PNG" alt="Product Details" width="200"/>
-        <img src="./screenshots/client/5.PNG" alt="Product Details" width="200"/><br/>
-        <b>Product Details & Reviews</b><br/>
-        <small>Detailed product view and customer reviews</small>
+        <img src="./screenshots/client/3.PNG" alt="Product Details 2" width="200"/>
+        <b>Product Details</b><br/>
+        <small>Detailed product view</small>
+      </td>
+        <td align="center">
+        <img src="./screenshots/client/4.PNG" alt="Product reviews" width="200"/>
+        <img src="./screenshots/client/5.PNG" alt="Product reviews 2" width="200"/><br/>
+        <b>Product Reviews</b><br/>
+        <small>Customer reviews</small>
       </td>
     </tr>
     <tr>
