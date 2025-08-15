@@ -70,6 +70,8 @@
 ### 👤 Client Interface
 
 #### 🛍️ Shopping Experience
+  <img src="./screenshots/client/product.png" alt="Product Catalog"/>
+
 <div align="center">
   <table>
     <tr>
