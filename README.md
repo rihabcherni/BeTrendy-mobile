@@ -17,49 +17,44 @@
       <td align="center">
         <img src="screenshots/login/splash.PNG" alt="Splash Screen" width="200"/><br/>
         <b>Splash Screen</b><br/>
-        <small>Initial app loading with logo</small>
       </td>
       <td align="center">
         <img src="screenshots/login/welcome.PNG" alt="Welcome Screen" width="200"/><br/>
         <b>Welcome Screen</b><br/>
-        <small>Introduction to the app</small>
       </td>
       <td align="center">
         <img src="screenshots/login/newslteer.PNG" alt="Newsletter Subscription" width="200"/><br/>
         <b>Newsletter Subscription</b><br/>
-        <small>Subscribe to updates</small>
       </td>
      <td align="center">
         <img src="screenshots/login/role.PNG" alt="Role Selection" width="200"/><br/>
         <b>Role Selection</b><br/>
-        <small>Choose account type</small>
       </td>
       <td align="center">
         <img src="screenshots/login/register1.PNG" alt="Register Step 1" width="200"/><br/>
         <b>Registration</b><br/>
-        <small>Create a new account</small>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="screenshots/login/otp.PNG" alt="OTP Verification" width="200"/><br/>
         <b>OTP Verification</b><br/>
-        <small>Confirm phone number</small>
       </td>
     <td align="center">
           <img src="screenshots/login/forgot.PNG" alt="Forgot Password" width="220"/><br/>
           <b>Forgot Password</b><br/>
-          <small>Password recovery</small>
         </td>
      <td align="center">
         <img src="screenshots/login/login.PNG" alt="Login Screen" width="200"/><br/>
         <b>Login Screen</b><br/>
-        <small>User authentication</small>
       </td>
       <td align="center">
         <img src="./screenshots/login/profil.PNG" alt="User Profile" width="200"/><br/>
         <b>User Profile</b><br/>
-        <small>Profile management</small>
+      </td>
+       <td align="center">
+        <img src="./screenshots/login/nav.PNG" alt="Nav" width="200"/><br/>
+        <b>Menu</b><br/>
       </td>
     </tr>
   </table>
@@ -75,15 +70,13 @@
     <tr>
       <td align="center">
         <img src="./screenshots/client/6-category.PNG" alt="Category Filter" width="200"/>
-        <img src="./screenshots/client/7-subcategory.PNG" alt="Category Filter" width="200"/>
-        <img src="./screenshots/client/8-sub.PNG" alt="Category Filter" width="200"/><br/>
+        <img src="./screenshots/client/8-sub.PNG" alt="Category Filter" width="200"/>
+        <img src="./screenshots/client/7-subcategory.PNG" alt="Category Filter" width="180"/><br/>
         <b>Category Filter</b><br/>
-        <small>Filter products by categories</small>
       </td>
       <td align="center">
         <img src="./screenshots/client/9-favorite.PNG" alt="Wishlist" width="200"/><br/>
         <b>Wishlist</b><br/>
-        <small>Save your favorite products</small>
       </td>
     </tr>
   </table>
@@ -117,87 +110,20 @@
 
 ### 🏪 Seller Interface
 
-#### 📊 Seller Dashboard
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="./screenshots/seller-dashboard.png" alt="Seller Dashboard" width="200"/><br/>
+        <img src="./screenshots/seller/seller-dash.PNG" alt="Seller Dashboard" width="200"/><br/>
         <b>Seller Dashboard</b><br/>
-        <small>Sales overview</small>
       </td>
       <td align="center">
-        <img src="./screenshots/seller-analytics.png" alt="Seller Analytics" width="200"/><br/>
-        <b>Sales Analytics</b><br/>
-        <small>Performance metrics</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/seller-profile.png" alt="Seller Profile" width="200"/><br/>
+        <img src="./screenshots/seller/seller.PNG" alt="Seller Profile" width="200"/><br/>
         <b>Seller Profile</b><br/>
-        <small>Store information</small>
       </td>
-    </tr>
-  </table>
-</div>
-
-#### 📦 Product Management
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./screenshots/seller-products.png" alt="Seller Products" width="200"/><br/>
-        <b>My Products</b><br/>
-        <small>Product inventory</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/add-product.png" alt="Add Product" width="200"/><br/>
+        <td align="center">
+        <img src="./screenshots/seller/add-pro.PNG" alt="Seller add" width="200"/><br/>
         <b>Add Product</b><br/>
-        <small>Create new product</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/edit-product.png" alt="Edit Product" width="200"/><br/>
-        <b>Edit Product</b><br/>
-        <small>Update product info</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="./screenshots/product-images.png" alt="Product Images" width="200"/><br/>
-        <b>Product Images</b><br/>
-        <small>Image management</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/inventory-management.png" alt="Inventory Management" width="200"/><br/>
-        <b>Inventory</b><br/>
-        <small>Stock management</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/product-categories.png" alt="Product Categories" width="200"/><br/>
-        <b>Categories</b><br/>
-        <small>Category assignment</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
-#### 📋 Order Management
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./screenshots/seller-orders.png" alt="Seller Orders" width="200"/><br/>
-        <b>Orders</b><br/>
-        <small>Order management</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/order-processing.png" alt="Order Processing" width="200"/><br/>
-        <b>Process Orders</b><br/>
-        <small>Order fulfillment</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/shipping-management.png" alt="Shipping Management" width="200"/><br/>
-        <b>Shipping</b><br/>
-        <small>Delivery management</small>
       </td>
     </tr>
   </table>
@@ -210,87 +136,20 @@
   <table>
     <tr>
       <td align="center">
-        <img src="./screenshots/admin-dashboard.png" alt="Admin Dashboard" width="200"/><br/>
+        <img src="./screenshots/admin/admin-dash.PNG" alt="Admin Dashboard" width="200"/><br/>
         <b>Admin Dashboard</b><br/>
-        <small>System overview</small>
       </td>
       <td align="center">
-        <img src="./screenshots/admin-analytics.png" alt="Admin Analytics" width="200"/><br/>
-        <b>Analytics</b><br/>
-        <small>Platform statistics</small>
+        <img src="./screenshots/admin/client.PNG" alt="Sellers" width="200"/><br/>
+        <b>Sellers List</b><br/>
       </td>
-      <td align="center">
-        <img src="./screenshots/system-health.png" alt="System Health" width="200"/><br/>
-        <b>System Health</b><br/>
-        <small>Performance monitoring</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
-#### 👥 User Management
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./screenshots/admin-users.png" alt="Admin Users" width="200"/><br/>
+            <td align="center">
+        <img src="./screenshots/admin/seller-add.PNG" alt="Add seller" width="200"/><br/>
         <b>User Management</b><br/>
-        <small>Manage all users</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/seller-approval.png" alt="Seller Approval" width="200"/><br/>
-        <b>Seller Approval</b><br/>
-        <small>Approve new sellers</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/user-roles.png" alt="User Roles" width="200"/><br/>
-        <b>User Roles</b><br/>
-        <small>Role management</small>
       </td>
     </tr>
   </table>
 </div>
-
-#### 🛍️ Product & Order Management
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./screenshots/admin-products.png" alt="Admin Products" width="200"/><br/>
-        <b>Product Management</b><br/>
-        <small>Global product control</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/admin-orders.png" alt="Admin Orders" width="200"/><br/>
-        <b>Order Management</b><br/>
-        <small>All platform orders</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/category-management.png" alt="Category Management" width="200"/><br/>
-        <b>Categories</b><br/>
-        <small>Category administration</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="./screenshots/content-moderation.png" alt="Content Moderation" width="200"/><br/>
-        <b>Content Moderation</b><br/>
-        <small>Review content</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/reports-disputes.png" alt="Reports & Disputes" width="200"/><br/>
-        <b>Reports & Disputes</b><br/>
-        <small>Handle complaints</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/system-settings.png" alt="System Settings" width="200"/><br/>
-        <b>System Settings</b><br/>
-        <small>Platform configuration</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ## ✨ Features
