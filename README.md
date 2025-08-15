@@ -92,14 +92,14 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="./screenshots/client/6-category.PNG" alt="Category Filter" width="200"/><br/>
-        <img src="./screenshots/client/7-subcategory.PNG" alt="Category Filter" width="200"/><br/>
+        <img src="./screenshots/client/6-category.PNG" alt="Category Filter" width="200"/>
+        <img src="./screenshots/client/7-subcategory.PNG" alt="Category Filter" width="200"/>
         <img src="./screenshots/client/8-sub.PNG" alt="Category Filter" width="200"/><br/>
         <b>Category Filter</b><br/>
         <small>Filter by categories</small>
       </td>
       <td align="center">
-        <img src="./screenshots/wishlist.png" alt="Wishlist" width="200"/><br/>
+        <img src="./screenshots/client//9-favorite.PNG" alt="Wishlist" width="200"/><br/>
         <b>Wishlist</b><br/>
         <small>Favorite products</small>
       </td>
@@ -112,17 +112,20 @@
   <table>
     <tr>
       <td align="center">
-        <img src="./screenshots/shopping-cart.png" alt="Shopping Cart" width="200"/><br/>
+        <img src="./screenshots/client/add-card.PNG" alt="Shopping Cart" width="200"/>
+        <img src="./screenshots/client/card.PNG" alt="Shopping Cart" width="200"/><br/>
         <b>Shopping Cart</b><br/>
         <small>Cart management</small>
       </td>
       <td align="center">
-        <img src="./screenshots/checkout-screen.png" alt="Checkout Screen" width="200"/><br/>
+        <img src="./screenshots/client/order.PNG" alt="Checkout Screen" width="200"/><br/>
         <b>Checkout Screen</b><br/>
         <small>Order summary</small>
       </td>
       <td align="center">
-        <img src="./screenshots/payment-methods.png" alt="Payment Methods" width="200"/><br/>
+        <img src="./screenshots/client/payment.PNG" alt="Payment Methods" width="200"/>
+        <img src="./screenshots/client/payment2.PNG" alt="Payment Methods" width="200"/>
+        <img src="./screenshots/client/payment3.PNG" alt="Payment Methods" width="200"/><br/>
         <b>Payment Methods</b><br/>
         <small>Payment options</small>
       </td>
