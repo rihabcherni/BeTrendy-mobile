@@ -76,25 +76,6 @@
   <table>
     <tr>
       <td align="center">
-        <img src="./screenshots/client/product.png" alt="Product Catalog" width="200"/><br/>
-        <b>Product Catalog</b><br/>
-        <small>Browse all products</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/client/2.PNG" alt="Product Details" width="200"/>
-        <img src="./screenshots/client/3.PNG" alt="Product Details 2" width="200"/>
-        <b>Product Details</b><br/>
-        <small>Detailed product view</small>
-      </td>
-        <td align="center">
-        <img src="./screenshots/client/4.PNG" alt="Product reviews" width="200"/>
-        <img src="./screenshots/client/5.PNG" alt="Product reviews 2" width="200"/><br/>
-        <b>Product Reviews</b><br/>
-        <small>Customer reviews</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
         <img src="./screenshots/client/6-category.PNG" alt="Category Filter" width="200"/>
         <img src="./screenshots/client/7-subcategory.PNG" alt="Category Filter" width="200"/>
         <img src="./screenshots/client/8-sub.PNG" alt="Category Filter" width="200"/><br/>
