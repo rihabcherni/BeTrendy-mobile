@@ -1,15 +1,9 @@
 
-# 📱 Be-Trendy Mobile App
+# Be-Trendy E-commerce Mobile App (Ionic + Django + MongoDB)
 
-**E-commerce mobile solution** combining:
-- **Frontend:** Ionic  
-- **Backend:** Django + MongoDB  
+## App Screenshots
 
----
-
-## 📱 App Screenshots
-
-### 🔐 Authentication Interface
+### Authentication Interface
 
 <div align="center">
   <table>
@@ -60,9 +54,9 @@
   </table>
 </div>
 
-### 👤 Client Interface
+### Client Interface
 
-#### 🛍️ Shopping Experience
+#### Shopping Experience
   <img src="./screenshots/client/product.png" alt="Product Catalog"/>
 
 <div align="center">
@@ -82,7 +76,7 @@
   </table>
 </div>
 
-#### 🛒 Cart & Checkout
+#### Cart & Checkout
 <div align="center">
   <table>
     <tr>
@@ -98,9 +92,12 @@
         <small>Review order summary</small>
       </td>
       <td align="center">
-        <img src="./screenshots/client/payment.PNG" alt="Payment Method 1" width="200"/>
-        <img src="./screenshots/client/payment2.PNG" alt="Payment Method 2" width="200"/>
-        <img src="./screenshots/client/payment3.PNG" alt="Payment Method 3" width="200"/><br/>
+        <div style="white-space: nowrap;">
+          <img src="./screenshots/client/payment.PNG" alt="Payment Method 1" width="200" style="display:inline-block; vertical-align:top; margin-right:5px;"/>
+          <img src="./screenshots/client/payment2.PNG" alt="Payment Method 2" width="200" style="display:inline-block; vertical-align:top; margin-right:5px;"/>
+          <img src="./screenshots/client/payment3.PNG" alt="Payment Method 3" width="200" style="display:inline-block; vertical-align:top;"/>
+        </div>
+        <br/>
         <b>Payment Methods</b><br/>
         <small>Select payment options</small>
       </td>
@@ -108,17 +105,16 @@
   </table>
 </div>
 
-### 🏪 Seller Interface
-
+### Seller Interface
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="./screenshots/seller/seller-dash.PNG" alt="Seller Dashboard" width="200"/><br/>
+        <img src="./screenshots/seller/seller-dash.PNG" alt="Seller Dashboard" width="210"/><br/>
         <b>Seller Dashboard</b><br/>
       </td>
       <td align="center">
-        <img src="./screenshots/seller/seller.PNG" alt="Seller Profile" width="200"/><br/>
+        <img src="./screenshots/seller/seller.PNG" alt="Seller Profile" width="220"/><br/>
         <b>Seller Profile</b><br/>
       </td>
         <td align="center">
@@ -129,9 +125,7 @@
   </table>
 </div>
 
-### ⚙️ Admin Interface
-
-#### 🎛️ Admin Dashboard
+### Admin Interface
 <div align="center">
   <table>
     <tr>
@@ -153,50 +147,19 @@
 ---
 
 ## ✨ Features
-
-### Frontend (Ionic)
 - 🔐 **User Authentication** – Registration, login, and profile management
 - 👤 **Multi-Role System** – Client, Seller, and Admin interfaces
 - 🛍 **Product Catalog** – Browse trendy items with images, prices, and details
 - 🔍 **Advanced Search & Filters** – Find products by category, price, and ratings
 - 🛒 **Shopping Cart** – Add, remove, and update cart items
-- 📦 **Order Tracking** – View order status in real-time
-- 💳 **Payment Integration** – Secure online transactions
 - ❤️ **Wishlist** – Save favorite products for later
 - 🏪 **Seller Dashboard** – Manage products and orders
-- ⚙️ **Admin Panel** – Complete platform administration
 - 📱 **Responsive Design** – Optimized for mobile devices
-- 🔔 **Push Notifications** – Order updates and promotional offers
-
-### Backend (Django + MongoDB)
 - 🌐 **RESTful API** for frontend communication
 - 🔐 **Secure Authentication & Authorization** (JWT)
-- 👥 **Role-Based Access Control** (RBAC)
 - 📦 **Product Management** (CRUD operations)
 - 🛒 **Order Management** – Complete order lifecycle
 - 👤 **Multi-User System** – Clients, Sellers, Admins
-- 💾 **MongoDB Storage** for scalability and performance
-- 📊 **Analytics Dashboard** – Sales and user metrics
-- 🛡 **Security Best Practices** to protect sensitive data
-- 🚀 **API Rate Limiting** and performance optimization
-
-## 🏗️ Architecture
-
-```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│                 │    │                 │    │                 │
-│  Ionic Frontend │────│  Django Backend │────│  MongoDB        │
-│  (Mobile App)   │    │  (REST API)     │    │  (Database)     │
-│                 │    │                 │    │                 │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-        │                        │
-        │                        │
-    ┌───▼────┐              ┌────▼────┐
-    │ Client │              │  Admin  │
-    │ Seller │              │  Panel  │
-    │ Admin  │              │   API   │
-    └────────┘              └─────────┘
-```
 
 ### Technology Stack
 
@@ -325,31 +288,6 @@ npm run e2e
 cd backend
 python manage.py test
 ```
-
----
-
-## 🚀 Usage
-
-### For Clients
-1. **Download & Install** the mobile app
-2. **Create Account** or sign in with existing credentials
-3. **Browse Products** and explore different categories
-4. **Add to Cart** and proceed to secure checkout
-5. **Track Orders** in real-time through the app
-
-### For Sellers
-1. **Register** as a seller and wait for admin approval
-2. **Access Seller Dashboard** to manage your store
-3. **Add Products** with detailed descriptions and images
-4. **Manage Inventory** and track stock levels
-5. **Process Orders** and handle customer requests
-
-### For Administrators
-1. **Access Admin Panel** at `http://localhost:8000/admin`
-2. **Login** with superuser credentials
-3. **Manage Users** - Approve sellers and handle user issues
-4. **Monitor Products** - Review and moderate content
-5. **View Analytics** - Track platform performance and sales
 
 ---
 
