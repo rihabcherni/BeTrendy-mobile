@@ -77,12 +77,14 @@
 </div>
 
 #### Cart & Checkout
+  <img src="./screenshots/client/carte.png" alt="Shopping Cart" width="200"/><br/>
+  <img src="./screenshots/client/pay.png" alt="Shopping Cart" width="200"/><br/>
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <img src="./screenshots/client/add-card.PNG" alt="Shopping Cart Step 1" width="200"/>
-        <img src="./screenshots/client/card.PNG" alt="Shopping Cart Step 2" width="200"/><br/>
+        <img src="./screenshots/client/cart.PNG" alt="Shopping Cart Step 2" width="200"/><br/>
         <b>Shopping Cart</b><br/>
         <small>Manage your cart items</small>
       </td>
@@ -291,7 +293,7 @@ python manage.py test
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 - **Rihab Cherni** 
 - **Molka Elloumi**
