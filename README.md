@@ -74,7 +74,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="./screenshots/client/1.PNG" alt="Product Catalog" width="200"/><br/>
+        <img src="./screenshots/client/product.png" alt="Product Catalog" width="200"/><br/>
         <b>Product Catalog</b><br/>
         <small>Browse all products</small>
       </td>
