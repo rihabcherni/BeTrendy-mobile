@@ -35,12 +35,6 @@
         <small>User authentication</small>
       </td>
       <td align="center">
-        <img src="screenshots/login/role.PNG" alt="Role Selection" width="200"/><br/>
-        <b>Role Selection</b><br/>
-        <small>Choose account type</small>
-      </td> 
-      <td align="center">
-        <img src="screenshots/login/register1.PNG" alt="Register Screen" width="200"/><br/>
         <img src="screenshots/login/register1.PNG" alt="Register Screen" width="200"/><br/>
         <b>Register Screen</b><br/>
         <small>Create a new account</small>
@@ -53,6 +47,16 @@
     </tr>
     <tr>
       <td align="center">
+        <img src="screenshots/login/role.PNG" alt="Role Selection" width="200"/><br/>
+        <b>Role Selection</b><br/>
+        <small>Choose account type</small>
+      </td>
+      <td align="center">
+        <img src="screenshots/login/sign.PNG" alt="Signature Capture" width="200"/><br/>
+        <b>Signature Capture</b><br/>
+        <small>Add your signature</small>
+      </td>
+      <td align="center">
         <img src="screenshots/login/forgot.PNG" alt="Forgot Password" width="200"/><br/>
         <b>Forgot Password</b><br/>
         <small>Password recovery</small>
@@ -61,6 +65,16 @@
         <img src="screenshots/login/email-verification.PNG" alt="Email Verification" width="200"/><br/>
         <b>Email Verification</b><br/>
         <small>Confirm your email address</small>
+      </td>
+      <td align="center">
+        <img src="screenshots/login/reset-password.PNG" alt="Reset Password" width="200"/><br/>
+        <b>Reset Password</b><br/>
+        <small>Set a new password</small>
+      </td>
+      <td align="center">
+        <img src="screenshots/login/password-changed.PNG" alt="Password Changed" width="200"/><br/>
+        <b>Password Changed</b><br/>
+        <small>Confirmation screen</small>
       </td>
     </tr>
   </table>
