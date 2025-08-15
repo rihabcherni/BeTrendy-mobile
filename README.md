@@ -52,7 +52,7 @@
         <small>Choose account type</small>
       </td>
       <td align="center">
-        <img src="screenshots/login/register1.PNG" alt="Signature Capture" width="200"/><br/>
+        <img src="screenshots/login/register1.PNG" alt="Signature Capture" width="200"/>
         <img src="screenshots/login/register2.PNG" alt="Signature Capture" width="200"/><br/>
         <b>Signature Capture</b><br/>
         <small>Add your signature</small>
