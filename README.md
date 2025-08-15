@@ -25,7 +25,7 @@
         <small>Introduction to the app</small>
       </td>
       <td align="center">
-        <img src="screenshots/login/newsletter.PNG" alt="Newsletter Subscription" width="200"/><br/>
+        <img src="screenshots/login/newslteer.PNG" alt="Newsletter Subscription" width="200"/><br/>
         <b>Newsletter Subscription</b><br/>
         <small>Subscribe to updates</small>
       </td>
@@ -39,20 +39,21 @@
         <b>Register Screen</b><br/>
         <small>Create a new account</small>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="screenshots/login/otp.PNG" alt="OTP Verification" width="200"/><br/>
         <b>OTP Verification</b><br/>
         <small>Confirm phone number</small>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="screenshots/login/role.PNG" alt="Role Selection" width="200"/><br/>
         <b>Role Selection</b><br/>
         <small>Choose account type</small>
       </td>
       <td align="center">
-        <img src="screenshots/login/sign.PNG" alt="Signature Capture" width="200"/><br/>
+        <img src="screenshots/login/register1.PNG" alt="Signature Capture" width="200"/><br/>
+        <img src="screenshots/login/register2.PNG" alt="Signature Capture" width="200"/><br/>
         <b>Signature Capture</b><br/>
         <small>Add your signature</small>
       </td>
@@ -60,21 +61,6 @@
         <img src="screenshots/login/forgot.PNG" alt="Forgot Password" width="200"/><br/>
         <b>Forgot Password</b><br/>
         <small>Password recovery</small>
-      </td>
-      <td align="center">
-        <img src="screenshots/login/email-verification.PNG" alt="Email Verification" width="200"/><br/>
-        <b>Email Verification</b><br/>
-        <small>Confirm your email address</small>
-      </td>
-      <td align="center">
-        <img src="screenshots/login/reset-password.PNG" alt="Reset Password" width="200"/><br/>
-        <b>Reset Password</b><br/>
-        <small>Set a new password</small>
-      </td>
-      <td align="center">
-        <img src="screenshots/login/password-changed.PNG" alt="Password Changed" width="200"/><br/>
-        <b>Password Changed</b><br/>
-        <small>Confirmation screen</small>
       </td>
     </tr>
   </table>
