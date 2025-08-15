@@ -87,7 +87,7 @@
         <img src="./screenshots/client/4.PNG" alt="Product Details" width="200"/>
         <img src="./screenshots/client/5.PNG" alt="Product Details" width="200"/><br/>
         <b>Product Details & Reviews</b><br/>
-        <small>Detailed product & Customer reviews</small>
+        <small>Detailed product view and customer reviews</small>
       </td>
     </tr>
     <tr>
@@ -96,12 +96,12 @@
         <img src="./screenshots/client/7-subcategory.PNG" alt="Category Filter" width="200"/>
         <img src="./screenshots/client/8-sub.PNG" alt="Category Filter" width="200"/><br/>
         <b>Category Filter</b><br/>
-        <small>Filter by categories</small>
+        <small>Filter products by categories</small>
       </td>
       <td align="center">
-        <img src="./screenshots/client//9-favorite.PNG" alt="Wishlist" width="200"/><br/>
+        <img src="./screenshots/client/9-favorite.PNG" alt="Wishlist" width="200"/><br/>
         <b>Wishlist</b><br/>
-        <small>Favorite products</small>
+        <small>Save your favorite products</small>
       </td>
     </tr>
   </table>
@@ -112,29 +112,29 @@
   <table>
     <tr>
       <td align="center">
-        <img src="./screenshots/client/add-card.PNG" alt="Shopping Cart" width="200"/>
-        <img src="./screenshots/client/card.PNG" alt="Shopping Cart" width="200"/><br/>
+        <img src="./screenshots/client/add-card.PNG" alt="Shopping Cart Step 1" width="200"/>
+        <img src="./screenshots/client/card.PNG" alt="Shopping Cart Step 2" width="200"/><br/>
         <b>Shopping Cart</b><br/>
-        <small>Cart management</small>
+        <small>Manage your cart items</small>
       </td>
       <td align="center">
         <img src="./screenshots/client/order.PNG" alt="Checkout Screen" width="200"/><br/>
         <b>Checkout Screen</b><br/>
-        <small>Order summary</small>
+        <small>Review order summary</small>
       </td>
       <td align="center">
-        <img src="./screenshots/client/payment.PNG" alt="Payment Methods" width="200"/>
-        <img src="./screenshots/client/payment2.PNG" alt="Payment Methods" width="200"/>
-        <img src="./screenshots/client/payment3.PNG" alt="Payment Methods" width="200"/><br/>
+        <img src="./screenshots/client/payment.PNG" alt="Payment Method 1" width="200"/>
+        <img src="./screenshots/client/payment2.PNG" alt="Payment Method 2" width="200"/>
+        <img src="./screenshots/client/payment3.PNG" alt="Payment Method 3" width="200"/><br/>
         <b>Payment Methods</b><br/>
-        <small>Payment options</small>
+        <small>Select payment options</small>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="./screenshots/shipping-address.png" alt="Shipping Address" width="200"/><br/>
         <b>Shipping Address</b><br/>
-        <small>Delivery information</small>
+        <small>Enter delivery information</small>
       </td>
       <td align="center">
         <img src="./screenshots/order-confirmation.png" alt="Order Confirmation" width="200"/><br/>
