@@ -5,10 +5,6 @@
 - **Frontend:** Ionic  
 - **Backend:** Django + MongoDB  
 
-This repository contains **both the mobile app frontend** and the **backend API**, designed to deliver a complete shopping experience with secure payments, product management, and order tracking.
-
-![Be-Trendy App Banner](./assets/images/app-banner.png)
-
 ---
 
 ## 📱 App Screenshots
@@ -19,36 +15,52 @@ This repository contains **both the mobile app frontend** and the **backend API*
   <table>
     <tr>
       <td align="center">
-        <img src="./screenshots/splash-screen.png" alt="Splash Screen" width="200"/><br/>
+        <img src="screenshots/login/splash.PNG" alt="Splash Screen" width="200"/><br/>
         <b>Splash Screen</b><br/>
-        <small>Welcome screen with app logo</small>
+        <small>Initial app loading with logo</small>
       </td>
       <td align="center">
-        <img src="./screenshots/login-screen.png" alt="Login Screen" width="200"/><br/>
+        <img src="screenshots/login/welcome.PNG" alt="Welcome Screen" width="200"/><br/>
+        <b>Welcome Screen</b><br/>
+        <small>Introduction to the app</small>
+      </td>
+      <td align="center">
+        <img src="screenshots/login/newsletter.PNG" alt="Newsletter Subscription" width="200"/><br/>
+        <b>Newsletter Subscription</b><br/>
+        <small>Subscribe to updates</small>
+      </td>
+      <td align="center">
+        <img src="screenshots/login/login.PNG" alt="Login Screen" width="200"/><br/>
         <b>Login Screen</b><br/>
         <small>User authentication</small>
       </td>
       <td align="center">
-        <img src="./screenshots/register-screen.png" alt="Register Screen" width="200"/><br/>
+        <img src="screenshots/login/role.PNG" alt="Role Selection" width="200"/><br/>
+        <b>Role Selection</b><br/>
+        <small>Choose account type</small>
+      </td> 
+      <td align="center">
+        <img src="screenshots/login/register1.PNG" alt="Register Screen" width="200"/><br/>
+        <img src="screenshots/login/register1.PNG" alt="Register Screen" width="200"/><br/>
         <b>Register Screen</b><br/>
-        <small>New user registration</small>
+        <small>Create a new account</small>
+      </td>
+      <td align="center">
+        <img src="screenshots/login/otp.PNG" alt="OTP Verification" width="200"/><br/>
+        <b>OTP Verification</b><br/>
+        <small>Confirm phone number</small>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="./screenshots/forgot-password.png" alt="Forgot Password" width="200"/><br/>
+        <img src="screenshots/login/forgot.PNG" alt="Forgot Password" width="200"/><br/>
         <b>Forgot Password</b><br/>
         <small>Password recovery</small>
       </td>
       <td align="center">
-        <img src="./screenshots/email-verification.png" alt="Email Verification" width="200"/><br/>
+        <img src="screenshots/login/email-verification.PNG" alt="Email Verification" width="200"/><br/>
         <b>Email Verification</b><br/>
-        <small>Account confirmation</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/reset-password.png" alt="Reset Password" width="200"/><br/>
-        <b>Reset Password</b><br/>
-        <small>New password setup</small>
+        <small>Confirm your email address</small>
       </td>
     </tr>
   </table>
