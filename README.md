@@ -29,42 +29,44 @@
         <b>Newsletter Subscription</b><br/>
         <small>Subscribe to updates</small>
       </td>
+    </tr>
+    <tr>
+     <td align="center">
+        <img src="screenshots/login/role.PNG" alt="Role Selection" width="200"/><br/>
+        <b>Role Selection</b><br/>
+        <small>Choose account type</small>
+      </td>
       <td align="center">
+        <img src="screenshots/login/register1.PNG" alt="Register Step 1" width="200"/><br/>
+        <b>Registration</b><br/>
+        <small>Create a new account</small>
+      </td>
+      <td align="center">
+        <img src="screenshots/login/register2.PNG" alt="Register Step 2" width="180"/><br/>
+        <b>Registration</b><br/>
+        <small>Confirmation of account creation</small>
+      </td>
+            <td align="center">
+        <img src="screenshots/login/otp.PNG" alt="OTP Verification" width="200"/><br/>
+        <b>OTP Verification</b><br/>
+        <small>Confirm phone number</small>
+      </td>
+    </tr>
+    <tr>
+    <td align="center">
+          <img src="screenshots/login/forgot.PNG" alt="Forgot Password" width="220"/><br/>
+          <b>Forgot Password</b><br/>
+          <small>Password recovery</small>
+        </td>
+     <td align="center">
         <img src="screenshots/login/login.PNG" alt="Login Screen" width="200"/><br/>
         <b>Login Screen</b><br/>
         <small>User authentication</small>
       </td>
       <td align="center">
-        <img src="screenshots/login/register1.PNG" alt="Register Screen" width="200"/><br/>
-        <b>Register Screen</b><br/>
-        <small>Create a new account</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="screenshots/login/otp.PNG" alt="OTP Verification" width="200"/><br/>
-        <b>OTP Verification</b><br/>
-        <small>Confirm phone number</small>
-      </td>
-      <td align="center">
-        <img src="screenshots/login/role.PNG" alt="Role Selection" width="200"/><br/>
-        <b>Role Selection</b><br/>
-        <small>Choose account type</small>
-      </td>
-    <td align="center">
-      <img src="screenshots/login/register1.PNG" alt="Register Step 1" width="200"/><br/>
-      <b>Registration</b><br/>
-      <small>Create a new account</small>
-    </td>
-    <td align="center">
-      <img src="screenshots/login/register2.PNG" alt="Register Step 2" width="180"/><br/>
-      <b>Registration</b><br/>
-      <small>Confirmation of account creation</small>
-    </td>
-      <td align="center">
-        <img src="screenshots/login/forgot.PNG" alt="Forgot Password" width="220"/><br/>
-        <b>Forgot Password</b><br/>
-        <small>Password recovery</small>
+        <img src="./screenshots/login/profil.PNG" alt="User Profile" width="200"/><br/>
+        <b>User Profile</b><br/>
+        <small>Profile management</small>
       </td>
     </tr>
   </table>
@@ -128,63 +130,6 @@
         <img src="./screenshots/client/payment3.PNG" alt="Payment Method 3" width="200"/><br/>
         <b>Payment Methods</b><br/>
         <small>Select payment options</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="./screenshots/shipping-address.png" alt="Shipping Address" width="200"/><br/>
-        <b>Shipping Address</b><br/>
-        <small>Enter delivery information</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/order-confirmation.png" alt="Order Confirmation" width="200"/><br/>
-        <b>Order Confirmation</b><br/>
-        <small>Purchase confirmation</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/payment-success.png" alt="Payment Success" width="200"/><br/>
-        <b>Payment Success</b><br/>
-        <small>Transaction completed</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
-#### 📦 Orders & Account
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./screenshots/user-profile.png" alt="User Profile" width="200"/><br/>
-        <b>User Profile</b><br/>
-        <small>Profile management</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/order-history.png" alt="Order History" width="200"/><br/>
-        <b>Order History</b><br/>
-        <small>Past orders</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/order-tracking.png" alt="Order Tracking" width="200"/><br/>
-        <b>Order Tracking</b><br/>
-        <small>Real-time tracking</small>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="./screenshots/order-details.png" alt="Order Details" width="200"/><br/>
-        <b>Order Details</b><br/>
-        <small>Detailed order view</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/settings-screen.png" alt="Settings Screen" width="200"/><br/>
-        <b>Settings Screen</b><br/>
-        <small>App preferences</small>
-      </td>
-      <td align="center">
-        <img src="./screenshots/notifications.png" alt="Notifications" width="200"/><br/>
-        <b>Notifications</b><br/>
-        <small>Order updates</small>
       </td>
     </tr>
   </table>
