@@ -1,6 +1,6 @@
 
 # Be-Trendy
- E-commerce Mobile App (Ionic + Django + MongoDB)
+E-commerce Mobile App (Ionic + Django + MongoDB)
 
 ## Features
 - **User Authentication** – Registration, login, and profile management
@@ -71,11 +71,14 @@
 
 ### Client Interface
 
-#### Shopping Experience
-  <img src="./screenshots/client/product.png" alt="Product Catalog"/>
-
 <div align="center">
   <table>
+    <tr>
+     <td align="center">
+        <img src="./screenshots/client/product.png" alt="Product Catalog"/>
+        <b>Shopping Experience</b><br/>
+      </td>
+    </tr>
     <tr>
       <td align="center">
         <img src="./screenshots/client/category-all.png" alt="Category Filter"/>
@@ -86,12 +89,6 @@
         <b>Wishlist</b><br/>
       </td>
     </tr>
-  </table>
-</div>
-
-#### Cart & Checkout
-<div align="center">
-  <table>
     <tr>
       <td align="center">
         <img src="./screenshots/client/carte.png" alt="Shopping Cart"/><br/>
@@ -164,7 +161,7 @@
 **Database**
 - **MongoDB**: NoSQL document database
 
-## 🛠 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - **Node.js** (v16 or higher)
