@@ -1,5 +1,20 @@
 
-# Be-Trendy E-commerce Mobile App (Ionic + Django + MongoDB)
+# Be-Trendy
+ E-commerce Mobile App (Ionic + Django + MongoDB)
+
+## Features
+- **User Authentication** – Registration, login, and profile management
+- **Multi-Role System** – Client, Seller, and Admin interfaces
+- **Product Catalog** – Browse trendy items with images, prices, and details
+- **Advanced Search & Filters** – Find products by category, price, and ratings
+- **Shopping Cart** – Add, remove, and update cart items
+- **Wishlist** – Save favorite products for later
+- **Seller Dashboard** – Manage products and orders
+- **Responsive Design** – Optimized for mobile devices
+- **RESTful API** for frontend communication
+- **Secure Authentication & Authorization** (JWT)
+- **Product Management** (CRUD operations)
+- **Order Management** – Complete order lifecycle
 
 ## App Screenshots
 
@@ -67,7 +82,7 @@
         <b>Category Filter</b><br/>
       </td>
       <td align="center">
-        <img src="./screenshots/client/9-favorite.PNG" alt="Wishlist" width="200"/><br/>
+        <img src="./screenshots/client/9-favorite.PNG" alt="Wishlist" width="300"/><br/>
         <b>Wishlist</b><br/>
       </td>
     </tr>
@@ -80,14 +95,13 @@
     <tr>
       <td align="center">
         <img src="./screenshots/client/carte.png" alt="Shopping Cart"/><br/>
-        <b>Shopping Cart & order summary</small>
+        <b>Shopping Cart & order summary</b>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="./screenshots/client/pay.png" alt="Shopping Cart"/><br/>
         <b>Payment Methods</b><br/>
-        <small>Select payment options</small>
       </td>
     </tr>
   </table>
@@ -102,11 +116,11 @@
         <b>Seller Dashboard</b><br/>
       </td>
       <td align="center">
-        <img src="./screenshots/seller/seller.PNG" alt="Seller Profile" width="220"/><br/>
+        <img src="./screenshots/seller/seller.PNG" alt="Seller Profile" width="240"/><br/>
         <b>Seller Profile</b><br/>
       </td>
         <td align="center">
-        <img src="./screenshots/seller/add-pro.PNG" alt="Seller add" width="200"/><br/>
+        <img src="./screenshots/seller/add-pro.PNG" alt="Seller add" width="180"/><br/>
         <b>Add Product</b><br/>
       </td>
     </tr>
@@ -132,22 +146,8 @@
     </tr>
   </table>
 </div>
----
 
-## ✨ Features
-- 🔐 **User Authentication** – Registration, login, and profile management
-- 👤 **Multi-Role System** – Client, Seller, and Admin interfaces
-- 🛍 **Product Catalog** – Browse trendy items with images, prices, and details
-- 🔍 **Advanced Search & Filters** – Find products by category, price, and ratings
-- 🛒 **Shopping Cart** – Add, remove, and update cart items
-- ❤️ **Wishlist** – Save favorite products for later
-- 🏪 **Seller Dashboard** – Manage products and orders
-- 📱 **Responsive Design** – Optimized for mobile devices
-- 🌐 **RESTful API** for frontend communication
-- 🔐 **Secure Authentication & Authorization** (JWT)
-- 📦 **Product Management** (CRUD operations)
-- 🛒 **Order Management** – Complete order lifecycle
-- 👤 **Multi-User System** – Clients, Sellers, Admins
+---
 
 ### Technology Stack
 
