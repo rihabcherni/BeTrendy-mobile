@@ -74,7 +74,7 @@ E-commerce Mobile App (Ionic + Django + MongoDB)
 <div align="center">
   <table>
     <tr>
-     <td align="center">
+     <td align="center" colspan="2">
         <img src="./screenshots/client/product.png" alt="Product Catalog"/>
         <b>Shopping Experience</b><br/>
       </td>
@@ -90,13 +90,13 @@ E-commerce Mobile App (Ionic + Django + MongoDB)
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" colspan="2">
         <img src="./screenshots/client/carte.png" alt="Shopping Cart"/><br/>
         <b>Shopping Cart & order summary</b>
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" colspan="2">
         <img src="./screenshots/client/pay.png" alt="Shopping Cart"/><br/>
         <b>Payment Methods</b><br/>
       </td>
