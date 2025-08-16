@@ -63,9 +63,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="./screenshots/client/6-category.PNG" alt="Category Filter" width="200"/>
-        <img src="./screenshots/client/8-sub.PNG" alt="Category Filter" width="200"/>
-        <img src="./screenshots/client/7-subcategory.PNG" alt="Category Filter" width="180"/><br/>
+        <img src="./screenshots/client/category-all.png" alt="Category Filter"/>
         <b>Category Filter</b><br/>
       </td>
       <td align="center">
@@ -77,29 +75,17 @@
 </div>
 
 #### Cart & Checkout
-  <img src="./screenshots/client/carte.png" alt="Shopping Cart" width="200"/><br/>
-  <img src="./screenshots/client/pay.png" alt="Shopping Cart" width="200"/><br/>
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="./screenshots/client/add-card.PNG" alt="Shopping Cart Step 1" width="200"/>
-        <img src="./screenshots/client/cart.PNG" alt="Shopping Cart Step 2" width="200"/><br/>
-        <b>Shopping Cart</b><br/>
-        <small>Manage your cart items</small>
+        <img src="./screenshots/client/carte.png" alt="Shopping Cart"/><br/>
+        <b>Shopping Cart & order summary</small>
       </td>
+    </tr>
+    <tr>
       <td align="center">
-        <img src="./screenshots/client/order.PNG" alt="Checkout Screen" width="200"/><br/>
-        <b>Checkout Screen</b><br/>
-        <small>Review order summary</small>
-      </td>
-      <td align="center">
-        <div style="white-space: nowrap;">
-          <img src="./screenshots/client/payment.PNG" alt="Payment Method 1" width="200" style="display:inline-block; vertical-align:top; margin-right:5px;"/>
-          <img src="./screenshots/client/payment2.PNG" alt="Payment Method 2" width="200" style="display:inline-block; vertical-align:top; margin-right:5px;"/>
-          <img src="./screenshots/client/payment3.PNG" alt="Payment Method 3" width="200" style="display:inline-block; vertical-align:top;"/>
-        </div>
-        <br/>
+        <img src="./screenshots/client/pay.png" alt="Shopping Cart"/><br/>
         <b>Payment Methods</b><br/>
         <small>Select payment options</small>
       </td>
