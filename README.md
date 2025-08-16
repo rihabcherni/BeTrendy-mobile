@@ -145,34 +145,27 @@ E-commerce Mobile App (Ionic + Django + MongoDB)
 </div>
 
 ---
-
-### Technology Stack  
+### 🛠️ Technology Stack
 
 <table>
   <tr>
-    <th>Layer</th>
-    <th>Technologies</th>
+    <th>Frontend (Mobile App)</th>
+    <th>Backend (API Server)</th>
+    <th>Database</th>
   </tr>
   <tr>
-    <td><b>Frontend (Mobile App)</b></td>
     <td>
-      - Ionic (Cross-platform mobile framework)<br/>
-      - Angular (Frontend framework)<br/>
-      - TypeScript (Programming language)
+      - Ionic: Cross-platform mobile framework <br/>
+      - Angular: Frontend framework <br/>
+      - TypeScript: Programming language
     </td>
-  </tr>
-  <tr>
-    <td><b>Backend (API Server)</b></td>
     <td>
-      - Django (Python web framework)<br/>
-      - Django REST Framework (API development)<br/>
-      - JWT (Authentication tokens)
+      - Django: Python web framework <br/>
+      - Django REST Framework: API development <br/>
+      - JWT: Authentication tokens
     </td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
     <td>
-      - MongoDB (NoSQL document database)
+      - MongoDB: NoSQL document database
     </td>
   </tr>
 </table>
