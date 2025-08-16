@@ -82,7 +82,7 @@
         <b>Category Filter</b><br/>
       </td>
       <td align="center">
-        <img src="./screenshots/client/9-favorite.PNG" alt="Wishlist" width="300"/><br/>
+        <img src="./screenshots/client/9-favorite.PNG" alt="Wishlist" width="400"/><br/>
         <b>Wishlist</b><br/>
       </td>
     </tr>
@@ -155,7 +155,6 @@
 - **Ionic**: Cross-platform mobile framework
 - **Angular**: Frontend framework
 - **TypeScript**: Programming language
-- **Capacitor**: Native bridge for mobile features
 
 **Backend (API Server)**
 - **Django**: Python web framework
@@ -202,9 +201,7 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 ```
-
 Access the API via: **[http://localhost:8000](http://localhost:8000)**  
-Access admin panel via: **[http://localhost:8000/admin](http://localhost:8000/admin)**
 
 ---
 
@@ -218,5 +215,4 @@ Access admin panel via: **[http://localhost:8000/admin](http://localhost:8000/ad
 
 <div align="center">
   <p><strong>Made with ❤️ by the Be-Trendy team</strong></p>
-  <p><em>A comprehensive e-commerce solution for the modern mobile era</em></p>
 </div>
