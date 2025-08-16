@@ -146,20 +146,36 @@ E-commerce Mobile App (Ionic + Django + MongoDB)
 
 ---
 
-### Technology Stack
+### Technology Stack  
 
-**Frontend (Mobile App)**
-- **Ionic**: Cross-platform mobile framework
-- **Angular**: Frontend framework
-- **TypeScript**: Programming language
-
-**Backend (API Server)**
-- **Django**: Python web framework
-- **Django REST Framework**: API development
-- **JWT**: Authentication tokens
-
-**Database**
-- **MongoDB**: NoSQL document database
+<table>
+  <tr>
+    <th>Layer</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Frontend (Mobile App)</b></td>
+    <td>
+      - Ionic (Cross-platform mobile framework)<br/>
+      - Angular (Frontend framework)<br/>
+      - TypeScript (Programming language)
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend (API Server)</b></td>
+    <td>
+      - Django (Python web framework)<br/>
+      - Django REST Framework (API development)<br/>
+      - JWT (Authentication tokens)
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      - MongoDB (NoSQL document database)
+    </td>
+  </tr>
+</table>
 
 ## Installation & Setup
 
@@ -207,9 +223,6 @@ Access the API via: **[http://localhost:8000](http://localhost:8000)**
 - **Rihab Cherni** 
 - **Molka Elloumi**
 - **Wiem Hammemi** 
-
----
-
 <div align="center">
   <p><strong>Made with ❤️ by the Be-Trendy team</strong></p>
 </div>
