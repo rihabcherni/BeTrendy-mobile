@@ -1,6 +1,6 @@
 
 # Be-Trendy
-E-commerce Mobile App (Ionic + Django + MongoDB)
+Cross-platform e-commerce mobile app built with Ionic, Angular, Django, and MongoDB, featuring multi-role management for clients, sellers, and admins. Enables secure authentication, product catalog browsing, shopping cart, wishlist, and complete order lifecycle management.
 
 ## Features
 - **User Authentication** – Registration, login, and profile management
@@ -226,4 +226,5 @@ Access the API via: **[http://localhost:8000](http://localhost:8000)**
 - **Wiem Hammemi** 
 <div align="center">
   <p><strong>Made with ❤️ by the Be-Trendy team</strong></p>
+
 </div>
