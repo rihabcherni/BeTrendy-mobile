@@ -145,7 +145,8 @@ E-commerce Mobile App (Ionic + Django + MongoDB)
 </div>
 
 ---
-### 🛠️ Technology Stack
+
+### Technology Stack
 
 <table>
   <tr>
