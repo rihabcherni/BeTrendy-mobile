@@ -185,17 +185,7 @@ cd BeTrendy-mobile
 ```bash
 cd frontend
 npm install
-
-# Install Ionic CLI globally (if not already installed)
 npm install -g @ionic/cli
-
-# Configure API endpoint in src/environments/environment.ts
-# export const environment = {
-#   production: false,
-#   apiUrl: 'http://localhost:8000/api'
-# };
-
-# Start development server
 ionic serve
 ```
 
@@ -205,77 +195,16 @@ Access the app via: **[http://localhost:8100](http://localhost:8100)**
 
 ```bash
 cd backend
-
-# Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
 pip install -r requirements.txt
-
-# Apply migrations
 python manage.py migrate
-
-# Create superuser for admin access
 python manage.py createsuperuser
-
-# Start development server
 python manage.py runserver
 ```
 
 Access the API via: **[http://localhost:8000](http://localhost:8000)**  
 Access admin panel via: **[http://localhost:8000/admin](http://localhost:8000/admin)**
-
-### 4️⃣ MongoDB Setup
-
-```bash
-# Start MongoDB service
-sudo systemctl start mongod  # On Linux
-brew services start mongodb  # On macOS
-
-# Or using Docker
-docker run -d -p 27017:27017 --name mongodb mongo:latest
-```
-
-## 📱 Mobile Development
-
-### Build for Mobile Platforms
-
-```bash
-# Navigate to frontend directory
-cd frontend
-
-# Add mobile platforms
-ionic capacitor add ios
-ionic capacitor add android
-
-# Build the app
-ionic build --prod
-
-# Sync with mobile platforms
-ionic capacitor sync
-
-# Open in native IDEs
-ionic capacitor open ios      # Opens Xcode
-ionic capacitor open android  # Opens Android Studio
-```
-
----
-
-## 🧪 Testing
-
-### Frontend Testing
-```bash
-cd frontend
-npm run test
-npm run e2e
-```
-
-### Backend Testing
-```bash
-cd backend
-python manage.py test
-```
 
 ---
 
