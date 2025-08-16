@@ -16,6 +16,13 @@ E-commerce Mobile App (Ionic + Django + MongoDB)
 - **Product Management** (CRUD operations)
 - **Order Management** – Complete order lifecycle
 
+---
+
+## Design Prototype  
+
+Check out the **Figma design** of the Be-Trendy Mobile App here:  
+👉 [Figma Be-Trendy E-commerce App](https://www.figma.com/design/DQMjL3EY0F8xQIcQf271rq/be-trendy-e-commerce-ionic-Mobile-App?node-id=0-1&p=f&t=csBGsgmDUgzSZA97-0)
+
 ## App Screenshots
 
 ### Authentication Interface
